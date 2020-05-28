@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\grand\OneDrive\Рабочий стол\15.04.2020\main.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grand\OneDrive\Рабочий стол\15.04.2020\main.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grand\OneDrive\Рабочий стол\15.04.2020\main.cpp(40,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\grand\OneDrive\Рабочий стол\15.04.2020\main.cpp(76,15): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication2.vcxproj -> C:\Users\grand\OneDrive\Рабочий стол\15.04.2020\Debug\ConsoleApplication2.exe
